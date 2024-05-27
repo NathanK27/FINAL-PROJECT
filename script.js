@@ -15,7 +15,7 @@ function setup () {
   ship(600, 150)
 }
 
-let x = 600 // x-coordinate of the shipw
+let x = 600 // x-coordinate of the ship
 let y = 750 // y-coordinate of the ship
 
 let a = 600 // x-coordinate of the bullet
